@@ -7,4 +7,8 @@ url: https://spotx-official.github.io/testsite/
 aux_links:
   Template Repository: https://github.com/SpotX-Official/
 
+nav_external_links:
+  - title: Test
+    url: https://github.com/SpotX-Official/
+
 color_scheme: spotx_dark
